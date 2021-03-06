@@ -1,5 +1,4 @@
 function Home() {
-    return <div>Home TaxiLIVRE</div>
+    return <div>Oi mundo!</div>
 }
-
-export default Home()
+export default Home
